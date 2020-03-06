@@ -1,0 +1,19 @@
+current directory: /Users/mrtkj/environment/railstutorial/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
+/Users/mrtkj/.rbenv/versions/2.6.5/bin/ruby -I /Users/mrtkj/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200305-17138-y0bvv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/mrtkj/environment/railstutorial/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/mrtkj/environment/railstutorial/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/mrtkj/environment/railstutorial/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20200305-17138-dxlutd/byebug

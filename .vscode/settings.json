@@ -1,4 +1,6 @@
 {
     "editor.renderWhitespace": "all",
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "workbench.editor.enablePreview": false,
+    "git.ignoreLimitWarning": true
 }
