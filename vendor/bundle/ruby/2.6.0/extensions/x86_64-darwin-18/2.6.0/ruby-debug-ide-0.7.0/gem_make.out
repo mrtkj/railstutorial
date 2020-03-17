@@ -1,7 +1,0 @@
-current directory: /Users/mrtkj/environment/railstutorial/vendor/bundle/ruby/2.6.0/gems/ruby-debug-ide-0.7.0/ext
-/Users/mrtkj/.rbenv/versions/2.6.5/bin/ruby mkrf_conf.rb
-Installing base gem
-Building native extensions. This could take a while...
-
-current directory: /Users/mrtkj/environment/railstutorial/vendor/bundle/ruby/2.6.0/gems/ruby-debug-ide-0.7.0/ext
-/Users/mrtkj/.rbenv/versions/2.6.5/bin/ruby -rrubygems /Users/mrtkj/environment/railstutorial/vendor/bundle/ruby/2.6.0/gems/rake-13.0.1/exe/rake RUBYARCHDIR\=/Users/mrtkj/environment/railstutorial/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-18/2.6.0/ruby-debug-ide-0.7.0 RUBYLIBDIR\=/Users/mrtkj/environment/railstutorial/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-18/2.6.0/ruby-debug-ide-0.7.0

@@ -26,4 +26,4 @@
 /spring/*.pid
 
 # add
-/vendor/*
+# /vendor/bundle*
