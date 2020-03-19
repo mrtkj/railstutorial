@@ -27,3 +27,6 @@
 
 # add
 /vendor/bundle*
+
+# アップロードされたテスト画像を無視する
+/public/uploads
